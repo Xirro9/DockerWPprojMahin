@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-labelledby="t d">
+<title id="t">WordPress on Docker</title>
+<desc id="d">Three containers side by side: wordpress on port 8000, mysql 5.7, and phpmyadmin on port 8080, linked by a dashed network line.</desc>
+<style>.p{animation:p 3s ease-in-out infinite}@keyframes p{50%{opacity:.35}}@media (prefers-reduced-motion: reduce){*{animation:none!important;}}</style>
+<defs><clipPath id="c"><rect width="1280" height="260" rx="24"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="1280" height="260" fill="#06121F"/><g transform="translate(760 80)"><rect width="150" height="96" rx="10" fill="#0B1B2B" stroke="#38BDF8"/>
+    <rect x="12" y="14" width="126" height="12" rx="3" fill="#38BDF8" opacity="0.25"/><rect x="12" y="34" width="126" height="12" rx="3" fill="#38BDF8" opacity="0.37"/><rect x="12" y="54" width="126" height="12" rx="3" fill="#38BDF8" opacity="0.49"/>
+    <text x="75" y="88" text-anchor="middle" style="font-family:'JetBrains Mono','Cascadia Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;font-size:13px" fill="#E0F2FE">wordpress</text>
+    <text x="75" y="-8" text-anchor="middle" style="font-family:'JetBrains Mono','Cascadia Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;font-size:12px" fill="#38BDF8">:8000</text></g><g transform="translate(930 80)"><rect width="150" height="96" rx="10" fill="#0B1B2B" stroke="#F59E0B"/>
+    <rect x="12" y="14" width="126" height="12" rx="3" fill="#F59E0B" opacity="0.25"/><rect x="12" y="34" width="126" height="12" rx="3" fill="#F59E0B" opacity="0.37"/><rect x="12" y="54" width="126" height="12" rx="3" fill="#F59E0B" opacity="0.49"/>
+    <text x="75" y="88" text-anchor="middle" style="font-family:'JetBrains Mono','Cascadia Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;font-size:13px" fill="#E0F2FE">mysql:5.7</text>
+    </g><g transform="translate(1100 80)"><rect width="150" height="96" rx="10" fill="#0B1B2B" stroke="#A78BFA"/>
+    <rect x="12" y="14" width="126" height="12" rx="3" fill="#A78BFA" opacity="0.25"/><rect x="12" y="34" width="126" height="12" rx="3" fill="#A78BFA" opacity="0.37"/><rect x="12" y="54" width="126" height="12" rx="3" fill="#A78BFA" opacity="0.49"/>
+    <text x="75" y="88" text-anchor="middle" style="font-family:'JetBrains Mono','Cascadia Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;font-size:13px" fill="#E0F2FE">phpmyadmin</text>
+    <text x="75" y="-8" text-anchor="middle" style="font-family:'JetBrains Mono','Cascadia Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;font-size:12px" fill="#A78BFA">:8080</text></g>
+      <path d="M910 128 h18 M1080 128 h18" stroke="#64748B" stroke-width="2" stroke-dasharray="4 3"/><circle cx="919" cy="128" r="4" fill="#38BDF8" class="p"/><circle cx="1089" cy="128" r="4" fill="#A78BFA" class="p"/></g>
+<rect x="1" y="1" width="1278" height="258" rx="24" fill="none" stroke="#38BDF8" stroke-opacity=".35" stroke-width="2"/>
+<text x="56" y="80" style="font-family:'JetBrains Mono','Cascadia Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;font-size:14px;letter-spacing:4px" fill="#38BDF8">HOMELAB NOTES · 2023</text>
+<text x="52" y="148" style="font-family:'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif;font-size:58px;font-weight:800;letter-spacing:-1.5px" fill="#F8FAFC">WordPress on Docker</text>
+<text x="56" y="194" style="font-family:'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif;font-size:20px" fill="#CBD5E1">Three containers, one compose file, step-by-step notes.</text>
+</svg>
